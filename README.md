@@ -11,9 +11,6 @@
 
 <img align="center" width="40" src="https://user-images.githubusercontent.com/15315541/136690502-551bd28a-50c9-4c60-a45b-856e75eea7eb.jpeg"/> **Former Data Scientist at Stefinini Brasil for Banco do Brasil**
 
-
-
-
 ## Latest Papers
 
 * [AURORA: an autonomous agent-oriented hybrid trading service](https://rdcu.be/cysdA) @ Neural Computing and Applications
@@ -21,40 +18,29 @@
 
 ## Github Highlights
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skalwalker&theme=dark"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Skalwalker&theme=dark"/>
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Skalwalker&hide=java,css&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Skalwalker&show_icons=true&theme=tokyonight)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Skalwalker&repo=MRLCommunication&theme=tokyonight)](https://github.com/Skalwalker/MRLCommunication)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=EmpyreanAI&repo=ResAM&theme=tokyonight)](https://github.com/EmpyreanAI/ResAM)
 
 ## Technologies and Tools
 
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript/TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-DeepLearning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-ReinforcementLearning-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-Keras-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-Matplotlib-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/ML-Numpy-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git/Github-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-XCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Latex-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=60D7F9)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=swift&logoColor=white&color=60D7F9)
+![](https://img.shields.io/badge/Code-C/C++-informational?style=flat&logo=c&logoColor=white&color=60D7F9)
+![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&logoColor=white&color=60D7F9)
+![](https://img.shields.io/badge/Code-JavaScript/TypeScript-informational?style=flat&logo=javascript&logoColor=white&color=60D7F9)
+![](https://img.shields.io/badge/ML-DeepLearning-informational?style=flat&logo=deeplearning&logoColor=white&color=60D7F9)
+![](https://img.shields.io/badge/ML-ReinforcementLearning-informational?style=flat&logo=pacman&logoColor=white&color=60D7F9)
+![](https://img.shields.io/badge/ML-TensorFlow-informational?style=flat&logo=tensorflow&logoColor=white&color=60D7F9)
+![](https://img.shields.io/badge/ML-Keras-informational?style=flat&logo=keras&logoColor=white&color=60D7F9)
+![](https://img.shields.io/badge/ML-ScikitLearn-informational?style=flat&logo=scikit&logoColor=white&color=60D7F9)
+![](https://img.shields.io/badge/ML-Matplotlib-informational?style=flat&logo=matplotlib&logoColor=white&color=60D7F9)
+![](https://img.shields.io/badge/ML-Numpy-informational?style=flat&logo=numpy&logoColor=white&color=60D7F9)
+![](https://img.shields.io/badge/Tools-Git/Github-informational?style=flat&logo=github&logoColor=white&color=60D7F9)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=60D7F9)
+![](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=60D7F9)
+![](https://img.shields.io/badge/Tools-XCode-informational?style=flat&logo=xcode&logoColor=white&color=60D7F9)
+![](https://img.shields.io/badge/Tools-Latex-informational?style=flat&logo=latex&logoColor=white&color=60D7F9)
 
-<!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][3].
-
-<!-- Icons -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-<!-- Links to your social media accounts -->
-
-[1]: https://twitter.com/Martin_Heinz_
-[2]: https://www.linkedin.com/in/heinz-martin/
