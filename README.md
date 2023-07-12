@@ -3,7 +3,7 @@
 
 ------------------------
 
-<img align="center" width="40" src="https://user-images.githubusercontent.com/15315541/136690497-f30e752b-6638-406f-9a5d-1323dbff31ba.jpeg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKP4MR8vCSKkXpHUSEcz4zL11RV4opWOr9CA&usqp=CAU"/>  **Data Engineering Intern at Amazon Italy**
+<img align="center" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSD6u-NiNrPKojZgIlotOc-GUIPv6l-yABxA&usqp=CAU"/>  **Data Engineering Intern at Amazon Italy**
 
 <img align="center" width="40" src="https://user-images.githubusercontent.com/15315541/136690497-f30e752b-6638-406f-9a5d-1323dbff31ba.jpeg"/>  **Pursuing M.Sc. in Computer Science at Università degli Studi di Milano**
 
