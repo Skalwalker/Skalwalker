@@ -3,13 +3,13 @@
 
 ------------------------
 
+<img align="center" width="40" src="https://user-images.githubusercontent.com/15315541/136690497-f30e752b-6638-406f-9a5d-1323dbff31ba.jpeg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKP4MR8vCSKkXpHUSEcz4zL11RV4opWOr9CA&usqp=CAU"/>  **Data Engineering Intern at Amazon Italy**
+
 <img align="center" width="40" src="https://user-images.githubusercontent.com/15315541/136690497-f30e752b-6638-406f-9a5d-1323dbff31ba.jpeg"/>  **Pursuing M.Sc. in Computer Science at Università degli Studi di Milano**
 
 <img align="center" width="40" src="https://user-images.githubusercontent.com/15315541/136690491-9dadf326-1da4-490f-a388-ee65cdf5ed78.jpeg"/> **Volunteer at Tree-Nation**
 
 <img align="center" width="40" src="https://user-images.githubusercontent.com/15315541/136690494-43410dff-c316-47bb-8657-cd32f2dbc291.jpeg"/> **Deep Learning Specialization at Deeplearning.ai**
-
-<img align="center" width="40" src="https://user-images.githubusercontent.com/15315541/136690502-551bd28a-50c9-4c60-a45b-856e75eea7eb.jpeg"/> **Former Data Scientist at Stefinini Brasil for Banco do Brasil**
 
 ## Latest Papers
 
